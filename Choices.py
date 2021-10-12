@@ -16,7 +16,6 @@ def start():
                 print("\nJe wacht op de bus, maar de bus heeft vertraging. Hierdoor ben nog later, je mocht de klas niet meer in. Je hebt gefaald")
             else:
                 print("\nje pakt de fiets en fietst super snel naar school toe. Ondanks dat je al laat was, was de docent nog zo lief om je binnen te laten. Je hebt het gered!")
-                
         elif choice == "belt":
             print("Je belt school op dat je je hebt verslapen en dat je er zo snel mogelijk aan komt")
             print("Je was klaar om te gaan en zag dat de bus bijna kwam, maar je kon ook met de fiets. kies uit 'bus' of 'fiets")
